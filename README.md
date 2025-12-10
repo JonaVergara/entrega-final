@@ -1,0 +1,5 @@
+-3 htmls responsives en celular, tablet y desktop (medidas iphone 13, ipad air 4 y macbook air)
+-SASS
+-Animaciones en nav y tarjetas de la seccion staff
+-SEO: etiquetas meta en cada html, jerarquita de encabezados, todos los html con sus respectivos titles
+-Nueva fuente
